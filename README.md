@@ -56,15 +56,6 @@ Frontend Developer focused on scalable software engineering, automation and buil
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GalenoTon&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalenoTon&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 <h2>🐍 Contribution Animation</h2>
 
 <div align="center">
