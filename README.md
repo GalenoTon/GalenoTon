@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wellington Galeno 👋</h1>
 
 <p align="center">
-Frontend Developer focused on scalable software engineering and building real-world digital products.
+Frontend Developer focused on scalable software engineering, automation and building real-world digital products.
 </p>
 
 ---
@@ -9,6 +9,7 @@ Frontend Developer focused on scalable software engineering and building real-wo
 <h2>🚀 About Me</h2>
 
 • Frontend Developer transitioning into Full-Stack Software Engineering.  
+• Experience building automation workflows using n8n for system integrations and process optimization.  
 • Strong interest in architecture, performance, and scalable applications.  
 • Passionate about solving real-world problems through technology.  
 • Currently focused on React Native and modern JavaScript ecosystems.  
@@ -26,9 +27,10 @@ Frontend Developer focused on scalable software engineering and building real-wo
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </div>
 
-<h3>Backend</h3>
+<h3>Backend & Automation</h3>
 <div>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </div>
 
 <h3>Mobile</h3>
