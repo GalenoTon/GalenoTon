@@ -1,24 +1,25 @@
 <h1 align="center">Hi, I'm Wellington Galeno 👋</h1>
 
 <p align="center">
-Frontend Developer focused on scalable software engineering, automation and building real-world digital products.
+Product-Oriented Fullstack Developer focused on building scalable systems, SaaS and automation-driven digital products.
 </p>
 
 ---
 
 <h2>🚀 About Me</h2>
 
-• Frontend Developer transitioning into Full-Stack Software Engineering.  
-• Experience building automation workflows using n8n for system integrations and process optimization.  
-• Strong interest in architecture, performance, and scalable applications.  
-• Passionate about solving real-world problems through technology.  
-• Currently focused on React Native and modern JavaScript ecosystems.  
+• Product-oriented developer building systems and SaaS applications end-to-end.  
+• Strong backend foundation with Node.js, APIs and data-driven architectures.  
+• Experience designing automation workflows (n8n & Python) for system integrations and operational efficiency.  
+• Focused on clean architecture, performance and scalable solutions.  
+• Passionate about turning real business problems into digital products.  
+• Currently deepening expertise in React Native and modern JavaScript ecosystems.  
 • Studying Analysis and Systems Development at Veiga de Almeida University.  
-• Background in Data Science, strengthening analytical and business skills.
+• Background in Data & Business Intelligence, strengthening analytical thinking.
 
 <div align="left">
   <img src="https://github.com/wellgaleno/wellgaleno/assets/152629472/26003dac-fa4e-4254-8d29-a9881e9c1ca7" width="200px" />
-</div
+</div>
 
 ---
 
@@ -29,29 +30,36 @@ Frontend Developer focused on scalable software engineering, automation and buil
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-</div>
-
-<h3>Backend & Automation</h3>
-<div>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</div>
-
-<h3>Mobile</h3>
-<div>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-<h3>Cloud & DevOps</h3>
+<h3>Backend & APIs</h3>
 <div>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+<h3>Database</h3>
+<div>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+</div>
+
+<h3>Cloud & Dev Tools</h3>
+<div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 
 <h3>Data</h3>
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="23px"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="23px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28px"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28px"/> 
 </div>
 
 ---
