@@ -16,6 +16,10 @@ Frontend Developer focused on scalable software engineering, automation and buil
 • Studying Analysis and Systems Development at Veiga de Almeida University.  
 • Background in Data Science, strengthening analytical and business skills.
 
+<div align="left">
+  <img src="https://github.com/wellgaleno/wellgaleno/assets/152629472/26003dac-fa4e-4254-8d29-a9881e9c1ca7" width="200px" />
+</div
+
 ---
 
 <h2>🛠 Tech Stack</h2>
@@ -84,6 +88,10 @@ Frontend Developer focused on scalable software engineering, automation and buil
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github.com/wellgaleno/wellgaleno/assets/152629472/d3fb14df-0278-4117-9a82-c16bc4b42f29" width="280px" />
+</div>
 
 <p align="center">
 <strong>“Dreaming small has never been part of my nature.”</strong>
