@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Wellington Galeno 👋</h1>
 
 <p align="center">
-Fullstack Developer focused on Systems, SaaS and Automation. Building backend-driven digital products with real business impact.
+Fullstack Developer focused on Systems, SaaS and Automation. 
+  Building backend-driven digital products with real business impact.
 </p>
 
 ---
