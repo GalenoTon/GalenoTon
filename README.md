@@ -2,7 +2,7 @@
 
 <p align="center">
 Fullstack Developer focused on Systems, SaaS and Automation. 
-  Building backend-driven digital products with real business impact.
+  Building digital products with real business impact.
 </p>
 
 ---
